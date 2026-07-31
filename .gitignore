@@ -1,0 +1,6 @@
+bin/
+tradestock.db
+*.class
+.DS_Store
+.vscode/
+.idea/

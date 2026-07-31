@@ -1,0 +1,3 @@
+@echo off
+echo Starting TradeStock Manager...
+java -cp "lib/*;bin" com.tradestock.Main
